@@ -1,0 +1,1 @@
+# Akbank Web 3 Practicum case 1 projesidir. 
